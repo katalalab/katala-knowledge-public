@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Regenerable derived index. The canonical content stays in Markdown.
+outputs/
