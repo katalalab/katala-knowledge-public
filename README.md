@@ -135,3 +135,5 @@ lexical and hybrid search. The tests use a fake embedder, so no Ollama is needed
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+- [Repository hygiene](.gitignore)
